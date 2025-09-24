@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/borneo-net-new/static/css/main.c91a8fc4.css",
+    "main.js": "/borneo-net-new/static/js/main.df657439.js",
+    "static/js/453.a200aaf6.chunk.js": "/borneo-net-new/static/js/453.a200aaf6.chunk.js",
+    "static/media/barf-logo.png": "/borneo-net-new/static/media/barf-logo.c2dcf3ad50fa49188f9d.png",
+    "index.html": "/borneo-net-new/index.html",
+    "main.c91a8fc4.css.map": "/borneo-net-new/static/css/main.c91a8fc4.css.map",
+    "main.df657439.js.map": "/borneo-net-new/static/js/main.df657439.js.map",
+    "453.a200aaf6.chunk.js.map": "/borneo-net-new/static/js/453.a200aaf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c91a8fc4.css",
+    "static/js/main.df657439.js"
+  ]
+}
